@@ -88,7 +88,7 @@ Use the `BLANK_README.md` to get started.
 ### Built With
 
 This project wrote by JavaScript with ExpressJs framework. Connecting to MongoDB...
-Login by google or email, password hashed by bcrypt, and authentication is verified by JWT.
+Login by Google or Email, password hashed by Bcrypt, and authentication is verified by JWT.
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,mongodb,nodejs&theme=light)](https://skills.thijs.gg)
 
@@ -99,20 +99,19 @@ Login by google or email, password hashed by bcrypt, and authentication is verif
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To install neccessary dependencies, run the following command
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install
   ```
 
-### Installation
+### Fixing issues
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_There are some private key and password of this project, you need to replace them by your own._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
