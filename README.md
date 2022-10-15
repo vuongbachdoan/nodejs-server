@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/vuongbachdoan/nodejs-server/tree/main#readme-top">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">API server</h3>
@@ -91,6 +91,7 @@ This project wrote by JavaScript with ExpressJs framework. Connecting to MongoDB
 Login by Google or Email, password hashed by Bcrypt, and authentication is verified by JWT.
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,mongodb,nodejs&theme=light)](https://skills.thijs.gg)
+<img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" height="80" alt="expressjs logo">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
