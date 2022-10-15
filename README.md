@@ -87,11 +87,7 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![NodeJS][nodejs-shield]][nodejs-shield]
-* [![ExpressionJS][expressionjs-shield]][expressionjs-shield]
-* [![Jwt][jwt-shield]][jwt-shield]]
-* [![Bcrypt][bcrypt-shield]][bcrypt-shield]]
-* [![Google][google-shield]][google-shield]
+[![My Skills](https://skills.thijs.gg/icons?i=js,mongodb,nodejs&theme=light)](https://skills.thijs.gg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
