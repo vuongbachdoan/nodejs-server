@@ -111,22 +111,15 @@ To install neccessary dependencies, run the following command
 
 ### Fixing issues
 
-_There are some private key and password of this project, you need to replace them by your own._
+_There are some private key and password of this project. To connect to MongoDB you need to replace them by your own._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+1. Create a mongodb account
+2. Get connection string
+3. Create file .env in root folder of project
+4. Paste your connection string into .env file
+   ```env
+   DB_URI=<your_connection_string>;
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
