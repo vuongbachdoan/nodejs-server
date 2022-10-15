@@ -90,7 +90,7 @@ Use the `BLANK_README.md` to get started.
 This project wrote by JavaScript with ExpressJs framework. Connecting to MongoDB...
 Login by Google or Email, password hashed by Bcrypt, and authentication is verified by JWT.
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,mongodb,nodejs&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,mongodb&theme=light)](https://skills.thijs.gg)
 <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" height="50" alt="expressjs logo">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
