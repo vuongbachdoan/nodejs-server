@@ -92,12 +92,8 @@ Login by Google or Email, password hashed by Bcrypt, and authentication is verif
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,mongodb&theme=light)](https://skills.thijs.gg)
 <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" height="50" alt="expressjs logo">
-<kbd>
 <img height="50" src="https://raw.githubusercontent.com/jpb06/readme-package-icons/main/icons/jwt.png"/>
-</kbd>
-<kbd>
 <img height="50" src="https://raw.githubusercontent.com/jpb06/readme-package-icons/main/icons/passport.svg" />
-</kbd>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
