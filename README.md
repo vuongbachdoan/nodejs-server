@@ -81,8 +81,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -94,8 +92,6 @@ Login by Google or Email, password hashed by Bcrypt, and authentication is verif
 <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" height="50" alt="expressjs logo">
 <img height="50" src="https://raw.githubusercontent.com/jpb06/readme-package-icons/main/icons/jwt.png"/>
 <img height="50" src="https://raw.githubusercontent.com/jpb06/readme-package-icons/main/icons/passport.svg" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -152,8 +148,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -162,8 +156,6 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 Vuong Bach Doan - [@facebook](https://www.facebook.com/vuong.bachdoan.940/) - vuongbachdoan@gmail.com - 0763101327
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -180,8 +172,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -215,4 +205,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
