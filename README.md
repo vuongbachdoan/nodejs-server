@@ -104,6 +104,8 @@ Login by Google or Email, password hashed by Bcrypt, and authentication is verif
 
 To get a local copy up and running follow these simple example steps.
 
+
+
 ### Prerequisites
 
 To install neccessary dependencies, run the following command
@@ -111,6 +113,8 @@ To install neccessary dependencies, run the following command
   ```sh
   npm install
   ```
+
+
 
 ### Fixing issues
 
@@ -123,6 +127,8 @@ _There are some private key and password of this project. To connect to MongoDB 
    ```env
    DB_URI=<your_connection_string>;
    ```
+
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
