@@ -23,16 +23,6 @@
 
   <h3 align="center">API server</h3>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="link-doc"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="link-demo">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-  </p>
 </div>
 
 
